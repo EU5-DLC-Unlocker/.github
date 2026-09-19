@@ -9,7 +9,7 @@ This tool streamlines DLC management for supported expansions, content packs, an
 ## 🔗 Latest Release of Linua Updater
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/EU5-DLC-Unlocker/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
